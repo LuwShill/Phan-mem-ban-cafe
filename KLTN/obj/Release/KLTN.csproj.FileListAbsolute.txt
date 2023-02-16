@@ -1,0 +1,81 @@
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\x86\SqlServerSpatial160.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\x64\SqlServerSpatial160.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\DevExpress.Data.v22.2.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\EnvDTE.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\stdole.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\DevExpress.Data.v22.2.xml
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.fAccountProfile.resources
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.fAdmin.resources
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.fLogin.resources
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.fTableManager.resources
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.Properties.Resources.resources
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\KLTN.csproj.CopyComplete
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Phần mềm quản lý quán cà phê.exe.config
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Phần mềm quản lý quán cà phê.exe.manifest
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Phần mềm quản lý quán cà phê.application
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Phần mềm quản lý quán cà phê.exe
+C:\Users\Admin\source\repos\KLTN\KLTN\bin\Release\Phần mềm quản lý quán cà phê.pdb
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\Phần mềm quản lý quán cà phê.exe.manifest
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\Phần mềm quản lý quán cà phê.application
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\Phần mềm quản lý quán cà phê.exe
+C:\Users\Admin\source\repos\KLTN\KLTN\obj\Release\Phần mềm quản lý quán cà phê.pdb
